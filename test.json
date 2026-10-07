@@ -1,0 +1,10 @@
+{
+    "brands": [
+          {
+                  "name": "Test Brand",
+                  "bikes": [
+                            { "name": "Test Bike 150", "type": "Sport" }
+                  ]
+          }
+    ]
+}
