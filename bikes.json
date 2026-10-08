@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "bikes": [
+    {
+      "id": "dayun-dy300-2f",
+      "brand": "Dayun",
+      "name": "DY300-2F Sport",
+      "category": "Sport Bikes",
+      "segment": "Mid-range",
+      "image": "images/dayun-dy300-2f.jpg",
+      "specs": {
+        "Engine": "285 cc, Inline Asynchronous Twin-Cylinder, 4-Stroke, Liquid-Cooled",
+        "Power": "26.1 HP (19.5 kW) @ 8,500 rpm",
+        "Torque": "27.3 Nm @ 6,500 rpm",
+        "Transmission": "6-Speed Manual",
+        "Starting": "Electric",
+        "Front Suspension": "Inverted Telescopic Fork",
+        "Rear Suspension": "Central Monoshock",
+        "Front Brake": "Dual Floating Hydraulic Discs with Bosch ABS",
+        "Rear Brake": "Single Hydraulic Disc with Bosch ABS",
+        "Front Tyre": "110/70-17",
+        "Rear Tyre": "140/70-17",
+        "Fuel Tank": "16 L",
+        "Seat Height": "785 mm",
+        "Kerb Weight": "170 kg",
+        "Features": "Delphi EFI, Bosch ABS, Digital TFT Display, All-LED Lighting"
+      }
+    }
+  ]
+}
